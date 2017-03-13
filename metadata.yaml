@@ -1,5 +1,8 @@
 _repo: On-the-Decay-of-the-Art-of-Lying_2572
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -17,6 +20,8 @@ description: On the Decay of the Art of Lying is a short essay by Mark Twain fro
   to lie thoughtfully, judiciously; to lie with a good object, and not an evil one;
   to lie for others' advantage, and not our own; to lie healingly, charitably, humanely,
   not cruelly, hurtfully, maliciously; to lie gracefully and ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2572#On-the-Decay-of-the-Art-of-Lying
 gutenberg_issued: '2004-09-15'
 gutenberg_type: Text
 identifiers:
